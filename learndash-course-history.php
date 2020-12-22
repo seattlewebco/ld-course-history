@@ -13,3 +13,7 @@
  * Text Domain:       ld-course-history
  * Domain Path:       /languages
  */
+
+if ( ! defined( 'ABSPATH' ) ) {
+    exit;
+}
